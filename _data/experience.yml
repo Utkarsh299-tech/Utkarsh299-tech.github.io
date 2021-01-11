@@ -1,4 +1,19 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: Campus Persuader
+  company: Cipher Build
+  dates: July 2020 - October 2020
+  logo: cp.png
+
+- role: Marketing Intern
+  company: Inception Wave Student Chapter
+  dates: June 2020 - August 2020
+  logo: iw.png
+
+- role: Member
+  company: ACM Student Chapter
+  dates: August 2020 - Present
+  logo: acm_chapter.jpg
+
+- role: Member
+  company: Computer Society of India
+  dates: August 2020 - Present
+  logo: CSI.png
